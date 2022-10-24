@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Employee Salary Calculator</string>
+    <string name="emptitle">Employee Salary Calculation System</string>
+    <string name="empname">Employee Name</string>
+    <string name="empsalary">Gross Salary</string>
+    <string name="emptax">Estimated Tax</string>
+    <string name="empnsal">Annual salary</string>
+    <string name="empmsal">Monthly salary</string>
+    <string name="btnok">OK</string>
+    <string name="btncancel">Clear</string>
+</resources>
